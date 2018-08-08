@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Find ATM</string>
+    <string name="title_activity_maps">Find ATM</string>
+    <string name="range">ATMs within the range of 1 Kms.</string>
+    <string name="informer">Informed by Jason</string>
+    <string name="update">(Touch to Update)</string>
+    <string name="no_money">ATM don\'t have money</string>
+    <string name="money">ATM having money</string>
+    <string name="update_info">Please update information about ATM by clicking on the icons.</string>
+    <string name="search">Search By Location</string>
+    <string name="help">Help</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate Us</string>
+
+</resources>
